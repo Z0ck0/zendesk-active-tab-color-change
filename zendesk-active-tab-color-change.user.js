@@ -3,7 +3,7 @@
 // @namespace    your-namespace
 // @version      1.0
 // @description  Changes the background color of the active Zendesk ticket tab
-// @match        https://example.zendesk.com/*
+// @match        https://example.zendesk.com/* //Replace the domain in the @match metadata with your company's Zendesk domain. 
 // @grant        GM_addStyle
 // ==/UserScript==
 
