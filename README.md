@@ -27,8 +27,8 @@ This repository contains a user script that allows you to change the background 
   - To adjust the background color: Modify the RGB color values in the script to your preferred color.
 
 ### **Prerequisites:**
--- A modern web browser (e.g., Chrome, Firefox, Safari)
--- User script manager extension installed (e.g., Tampermonkey, Greasemonkey)
+- A modern web browser (e.g., Chrome, Firefox, Safari)
+- User script manager extension installed (e.g., Tampermonkey, Greasemonkey)
 
 ### **Dependencies:**
 None
