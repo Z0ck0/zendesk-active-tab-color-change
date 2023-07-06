@@ -19,6 +19,7 @@ Copy the contents of the JavaScript file (zendesk-active-tab-color-change.user.j
 Open your user script manager and create a new script.
 Paste the copied script into the script editor.
 Save the script.
+
 Usage
 Ensure the user script manager extension is enabled in your web browser.
 Open your Zendesk instance in your web browser.
@@ -26,9 +27,11 @@ The script will automatically apply the background color change to the active ti
 Customize the script as desired:
 To target a different CSS class: Inspect the element of the active ticket tab using your browser's developer tools and replace the CSS class selector in the script with the appropriate one.
 To adjust the background color: Modify the RGB color values in the script to your preferred color.
+
 Prerequisites
 A modern web browser (e.g., Chrome, Firefox, Safari)
 User script manager extension installed (e.g., Tampermonkey, Greasemonkey)
+
 Dependencies
 None
 
