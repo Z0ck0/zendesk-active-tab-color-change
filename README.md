@@ -34,6 +34,7 @@ This repository contains a user script that allows you to change the background 
 None<br><br><br>
 
 ### **Additional Setup Steps:**
-None
+None.
+
 Feel free to customize this documentation section based on your specific script and any additional information you want to provide. Include any prerequisites, dependencies, or additional setup steps required for users to successfully install and use the script.
 
