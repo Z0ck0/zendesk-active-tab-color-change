@@ -1,7 +1,4 @@
 # zendesk-active-tab-color-change
-A user script to change the active tab color in Zendesk for improved visibility. Enhance your ticket management experience with a customized background color.
-
-
 Zendesk Active Tab Color Change
 
 This repository contains a user script that allows you to change the background color of the active ticket tab in Zendesk. The script applies a custom background color to enhance the visibility and distinguishability of the active tab.
