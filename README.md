@@ -1,5 +1,5 @@
 # zendesk-active-tab-color-change
-Zendesk Active Tab Color Change
+## Zendesk Active Tab Color Change
 
 This repository contains a user script that allows you to change the background color of the active ticket tab in Zendesk. The script applies a custom background color to enhance the visibility and distinguishability of the active tab.
 
@@ -20,6 +20,7 @@ Features:
 4. Paste the copied script into the script editor.
 5. Save the script.
 
+
 **Usage**
 1. Ensure the user script manager extension is enabled in your web browser.
 2. Open your Zendesk instance in your web browser.
@@ -28,12 +29,15 @@ Features:
 - To target a different CSS class: Inspect the element of the active ticket tab using your browser's developer tools and replace the CSS class selector in the script with the appropriate one.
 - To adjust the background color: Modify the RGB color values in the script to your preferred color.
 
+
 **Prerequisites**
 - A modern web browser (e.g., Chrome, Firefox, Safari)
 - User script manager extension installed (e.g., Tampermonkey, Greasemonkey)
 
+
 **Dependencies**
 None
+
 
 **Additional Setup Steps**
 None
