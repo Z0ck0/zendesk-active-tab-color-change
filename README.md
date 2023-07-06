@@ -20,10 +20,6 @@ Features:
 4. Paste the copied script into the script editor.
 5. Save the script.
 
-
-
-
-
 **Usage**
 1. Ensure the user script manager extension is enabled in your web browser.
 2. Open your Zendesk instance in your web browser.
@@ -46,3 +42,8 @@ None
 None
 
 Feel free to customize this documentation section based on your specific script and any additional information you want to provide. Include any prerequisites, dependencies, or additional setup steps required for users to successfully install and use the script.
+
+This is the first paragraph.
+
+This is the second paragraph.
+
