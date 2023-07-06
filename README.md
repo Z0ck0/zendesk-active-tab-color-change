@@ -10,6 +10,7 @@ Features:
 - Changes the background color of the active Zendesk ticket tab
 - Improves visibility and helps differentiate the active tab from others
 - Easy to install and use as a user script
+  
 
 ![Screenshot_1](https://github.com/Z0ck0/zendesk-active-tab-color-change/assets/132205377/8b8d5991-ed9a-4039-a313-be66f37bb822)
 
