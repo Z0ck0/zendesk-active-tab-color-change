@@ -21,6 +21,9 @@ Features:
 5. Save the script.
 
 
+
+
+
 **Usage**
 1. Ensure the user script manager extension is enabled in your web browser.
 2. Open your Zendesk instance in your web browser.
