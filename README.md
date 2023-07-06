@@ -23,8 +23,8 @@ This repository contains a user script that allows you to change the background 
 2. Open your Zendesk instance in your web browser.
 3. The script will automatically apply the background color change to the active ticket tab.
 4. Customize the script as desired:
-- To target a different CSS class: Inspect the element of the active ticket tab using your browser's developer tools and replace the CSS class selector in the script with the appropriate one.
-- To adjust the background color: Modify the RGB color values in the script to your preferred color.
+  - To target a different CSS class: Inspect the element of the active ticket tab using your browser's developer tools and replace the CSS class selector in the script with the appropriate one.
+  - To adjust the background color: Modify the RGB color values in the script to your preferred color.
 
 ### **Prerequisites:**
 - A modern web browser (e.g., Chrome, Firefox, Safari)
