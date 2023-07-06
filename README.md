@@ -9,7 +9,7 @@ This repository contains a user script that allows you to change the background 
 - Easy to install and use as a user script
   <br><br><br>
 
-![Screenshot_1](https://github.com/Z0ck0/zendesk-active-tab-color-change/assets/132205377/8b8d5991-ed9a-4039-a313-be66f37bb822)
+![Screenshot_1](https://github.com/Z0ck0/zendesk-active-tab-color-change/assets/132205377/8b8d5991-ed9a-4039-a313-be66f37bb822) <br><br><br>   
 
 **Installation:**
 1. Install a user script manager extension for your web browser. Some popular options include Tampermonkey and Greasemonkey.
